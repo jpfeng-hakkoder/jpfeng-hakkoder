@@ -18,6 +18,8 @@
   <img src="https://api.iconify.design/skill-icons:react-dark.svg?color=%23888888" height="50">
   <img src="https://api.iconify.design/skill-icons:nextjs-dark.svg?color=%23888888" height="50">
   <img src="https://api.iconify.design/skill-icons:python-dark.svg?color=%23888888" height="50">
+
+  <br>
   
   ### 🏅 Certifications
   
